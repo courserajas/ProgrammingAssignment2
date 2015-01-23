@@ -26,9 +26,8 @@
 ##               to access cache
 ##
 ## NOTE: while you can access local functions (functions defined inside this 
-##       functionlist of functions) one should note that e.g. getinverse() does 
-##       not return inverse matrix unless it has been solved separately by 
-##       cacheSolve()
+##       function) one should note that e.g. getinverse() does  not return 
+##       inverse matrix unless it has been solved separately by cacheSolve()
 ##
 makeCacheMatrix <- function(x = matrix()) {
   
