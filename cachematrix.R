@@ -1,4 +1,4 @@
-## A set of functions to solve inverse matrix. Uses caching mechanims
+## A set of functions to solve inverse matrix. Uses caching mechanim
 ## for a sake of performance
 ##
 ## Example of use:
